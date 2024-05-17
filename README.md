@@ -20,4 +20,5 @@ then use GNU stow to create symlinks
 
 
 ### Utils Resources
-
+[zsh config](https://www.youtube.com/watch?v=y6XCebnB9gs)
+[7 Utils](https://www.youtube.com/watch?v=2OHrTQVlRMg)
